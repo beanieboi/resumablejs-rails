@@ -2,6 +2,12 @@
 
 resumable.js for the Rails Asset Pipeline
 
+## Contributing
+
+see [CONTRIBUTING.md][contributing]
+
+[contributing]: https://github.com/beanieboi/resumablejs-rails/blob/master/CONTRIBUTING.md
+
 ## Installation
 
 Add this to your application's Gemfile:
